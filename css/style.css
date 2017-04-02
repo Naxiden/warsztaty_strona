@@ -1,0 +1,177 @@
+* {
+    padding: 0;
+    margin: 0 auto;
+    font-family: 'Raleway', sans-serif;
+    overflow: auto;
+    box-sizing: border-box;
+}
+
+nav {
+    background-color: black;
+    width: 100%;
+}
+
+header {
+    margin: 0 auto;
+    width: 90%;
+}
+
+.header-par {
+    float: left;
+    color: white;
+    margin: 20px;
+}
+
+ul {
+    float: right;
+}
+
+#wrapper {
+    background: rgba(226, 226, 226, 1);
+}
+
+.button-container {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.button {
+    padding: 10px 20px;
+    background: #27C7AB;
+    text-decoration: none;
+    display: inline-block;
+}
+
+li {
+    float: right;
+    color: white;
+    margin: 20px;
+}
+
+.after-header {
+    margin-top: 50px;
+    width: 100%;
+}
+
+.lay-container {
+    width: 80%;
+}
+
+.after-img {
+    background-image: url(../images/black_chair.png);
+    display: inline-block;
+    width: 40%;
+    height: 400px;
+    margin: 20px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.right-afterh {
+    height: 400px;
+    display: inline-block;
+    width: 30%;
+}
+
+.lewo {
+    display: inline-block;
+    float: left;
+    color: #27c7ab;
+    font-size: 50px;
+    margin-top: 120px;
+    margin-left: 100px;
+}
+
+.prawo {
+    display: inline-block;
+    color: #27c7ab;
+    font-size: 50px;
+    vertical-align: top;
+    margin-top: 120px;
+    margin-left: 50px;
+}
+
+.content {
+    height: 300px;
+}
+
+.podpis_box1 {
+    bottom: 60px;
+    right: 110px;
+    border-bottom: 4px solid #27c7ab;
+    width: 100px;
+    margin-left: 20px;
+}
+
+.podpis_box2 {
+    bottom: 60px;
+    right: 80px;
+    border-bottom: 4px solid #27c7ab;
+    width: 140px;
+    margin-left: 20px;
+}
+
+.white_cont {
+    height: 45px;
+    background-color: rgba(57, 51, 0, 0.3);
+    width: 330px;
+    position: relative;
+    bottom: 60px;
+}
+
+.obrazek_1,
+.obrazek_2,
+.tekst_cont {
+    width: 30%;
+    float: left;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.tekst_cont {
+    border: 1px solid gray;
+    min-height: 225px;
+}
+
+.header_underlined {
+    font-weight: bold;
+    border-bottom: 7px solid #27c7ab;
+    width: 150px;
+    margin-left: 20px;
+    text-align: left;
+}
+.middle{
+    width:100%;
+    
+}
+.middle_p_master{
+    width: 34%;
+    float: left;
+    margin-left: 20px;
+}
+
+.mid_header{
+    font-weight: bold;
+    border-bottom: 7px solid #27c7ab;
+    width: 150px;
+    margin-left: 20px;
+    text-align: left;
+}
+
+.middle_p{
+    margin-top: 20px;
+    width: 30%;
+    height: 250px;
+    float: left;
+    border: 4px solid gray;
+    background-color: azure;
+}
+.med_circle{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    float: left;
+    
+    
+    
+}
